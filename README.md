@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I'm Thito Ribeiro and I'm so glad to receive you in my github profile👋
+I had worked as Tester, QA Analyst and QA Engineer since 2014, but before that, I worked 8 years as Quality Analyst at automotive industry and almost 4 years as IT analyst.
 
 <!--
 **thitoribeiro/thitoribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
